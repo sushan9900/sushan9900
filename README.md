@@ -3,104 +3,145 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sushan U</h1>
-<p align="center">
-  <strong>A passionate software developer from India 🇮🇳</strong>
+<h3 align="center">A passionate full-stack developer & AI/ML enthusiast from India 🇮🇳</h3>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+<p align="left">
+  <a href="https://github.com/sushan9900">
+    <img src="https://komarev.com/ghpvc/?username=sushan9900&label=Profile%20views&color=0070f3&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushan9900&label=Profile%20views&color=2496ED&style=flat-square" alt="Profile views" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushan9900&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="28" />
-</p>
+<br />
 
----
+### 📝 About Me & Bio
 
-### 💫 About Me
+> **Full-Stack Developer | AI & Machine Learning Engineering Student | Tech Enthusiast**
 
-* 🔭 I’m currently focused on building robust, scalable applications and deepening my knowledge in full-stack development.
-* 📚 I love solving algorithmic challenges on platforms like LeetCode and HackerRank.
-* 📫 Reach out to me via email: **sushan9900@gmail.com**
-* ⚡ Fun fact: **I love incorporating humor into my coding journeys!**
+I am an **Artificial Intelligence & Machine Learning Engineering** student based in **Udupi, Karnataka, India 🇮🇳**. I specialize in building responsive, scalable full-stack web applications and engineering data-driven solutions using modern cloud and AI technologies.
 
----
+- 🔭 **Current Focus**: Building robust full-stack web applications (React, Node.js, Python) and machine learning models.
+- 🎓 **Engineering Interests**: Computer Vision, Predictive Data Analytics, Algorithmic Problem Solving, and Cloud Systems.
+- 💡 **Problem Solving**: Active competitive programmer on **LeetCode** and **HackerRank**.
+- 📫 **Get in Touch**: [sushan9900@gmail.com](mailto:sushan9900@gmail.com) | [LinkedIn](https://linkedin.com/in/sushan-u)
+- ⚡ **Fun Fact**: I love blending creativity, design aesthetics, and humor into my software engineering journey!
 
-### 🌐 Connect with Me
+<br />
 
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sushan-u" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;
   <a href="https://instagram.com/_.su_shan._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  &nbsp;
   <a href="https://www.hackerrank.com/sushan9900" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  &nbsp;
   <a href="https://www.leetcode.com/sushan0500" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:sushan9900@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
----
+<br />
 
-### 🛠️ Languages and Tools
-
-#### 💻 Programming Languages
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="30" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="30" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
 </p>
 
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" height="30" />
-</p>
+<br />
+<hr />
 
-#### 📊 Data Science & Computer Vision
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
-</p>
-
-#### ☁️ Cloud, OS & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="30" />
-</p>
-
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="30" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+<h3 align="left">📊 GitHub Analytics & Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushan9900&show_icons=true&theme=tokyonight&locale=en" alt="Sushan's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushan9900&theme=tokyonight" alt="Sushan's GitHub Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushan9900&theme=tokyonight" alt="Sushan's Languages" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushan9900&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Sushan's Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushan9900&theme=tokyonight" alt="Sushan's Top Commit Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sushan9900&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Designed with ❤️ by <a href="https://github.com/sushan9900">Sushan U</a></i>
 </p>
