@@ -131,13 +131,9 @@ I am an **Artificial Intelligence & Machine Learning Engineering** student based
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushan9900&theme=tokyonight" alt="Sushan's Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushan9900&theme=tokyonight" alt="Sushan's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushan9900&theme=tokyonight" alt="Sushan's Top Commit Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sushan9900&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushan9900&theme=tokyonight" alt="Sushan's Top Languages" width="48%" />
 </p>
 
 ---
