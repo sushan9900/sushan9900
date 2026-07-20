@@ -24,14 +24,14 @@ I am an **Artificial Intelligence & Machine Learning Engineering** student based
 - 🔭 **Current Focus**: Building robust full-stack web applications (React, Node.js, Python) and machine learning models.
 - 🎓 **Engineering Interests**: Computer Vision, Predictive Data Analytics, Algorithmic Problem Solving, and Cloud Systems.
 - 💡 **Problem Solving**: Active competitive programmer on **LeetCode** and **HackerRank**.
-- 📫 **Get in Touch**: [sushan9900@gmail.com](mailto:sushan9900@gmail.com) | [LinkedIn](https://linkedin.com/in/sushan-u)
+- 📫 **Get in Touch**: [sushan9900@gmail.com](mailto:sushan9900@gmail.com) | [LinkedIn](https://linkedin.com/in/sushanu)
 - ⚡ **Fun Fact**: I love blending creativity, design aesthetics, and humor into my software engineering journey!
 
 <br />
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sushan-u" target="_blank">
+  <a href="https://linkedin.com/in/sushanu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;
