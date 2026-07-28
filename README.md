@@ -1,10 +1,10 @@
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/main/light.svg">
-  <img alt="SUSHAN U" src="https://raw.githubusercontent.com/sushan9900/sushan9900/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
+  <img alt="SUSHAN U" src="dark.svg?v=3" width="100%">
 </picture>
+</div>
 
 <br/>
 
