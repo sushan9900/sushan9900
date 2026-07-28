@@ -1,8 +1,10 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg?v=3">
-  <img alt="SUSHAN U" src="dark.svg?v=3" width="100%">
+ <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/main/dark.svg">
+ <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/main/light.svg">
+ <img alt="SUSHAN U" src="https://raw.githubusercontent.com/sushan9900/sushan9900/main/light.svg">
 </picture>
 </div>
 
@@ -19,12 +21,12 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
-  <img alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
+ <source media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
+ <img alt="Snake eating my contributions"
+ src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
 </picture>
 </div>
 
@@ -32,14 +34,14 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sushanu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sushan9900@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+ <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-sushan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+ <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 </div>
