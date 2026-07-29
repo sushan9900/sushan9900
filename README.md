@@ -18,11 +18,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" width="100%" style="max-width: 100%; height: auto;" />
-  </picture>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake2.svg" width="100%" style="max-width: 100%; height: auto;" />
 </div>
 
 <br/>
