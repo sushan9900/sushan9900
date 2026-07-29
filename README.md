@@ -26,7 +26,8 @@
  <source media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
  <img alt="Snake eating my contributions"
- src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
+ src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg"
+ width="100%" />
 </picture>
 </div>
 
