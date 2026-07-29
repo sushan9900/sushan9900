@@ -21,7 +21,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake.svg" width="100%" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-snake-dark.svg" width="100%" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
 
