@@ -107,7 +107,7 @@ Hi, I'm **Sushan**! I am a passionate **Software Engineer & Full Stack Developer
 | **Stack** | `ESP8266 / C++` • `FastAPI` • `Scikit-Learn` • `React/Vite` • `Firebase` • `Cloud Run` |
 | **Sensors** | MQ-2 Gas, Capacitive Moisture, HC-SR04 Ultrasonic |
 | **Key Features** | Real-time risk scoring, flood probability estimation, automated alerts |
-| **Repository** | [`github.com/sushan9900/APEX_API_SMART_SPHERE`](https://github.com/vaibhavvm2005/APEX_API_SMART_SPHERE) |
+| **Repository** | [`github.com/vaibhavvm2005/APEX_API_SMART_SPHERE`](https://github.com/vaibhavvm2005/APEX_API_SMART_SPHERE) |
 
 #### Project Highlights
 SmartSphere captures live telemetry from hardware nodes via MQTT/HTTP, processes environmental readings through a Python AI engine using Scikit-Learn, and updates a live React dashboard backed by Firebase Realtime Database.
@@ -186,30 +186,7 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 ---
 
 <!-- 10. GitHub Analytics Section -->
-## 📊 GitHub Performance Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushan9900&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=6366f1&text_color=cbd5e1&bg_color=0d1117&border_color=3b0764&hide_border=false" height="190" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushan9900&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=6366f1&text_color=cbd5e1&bg_color=0d1117&border_color=3b0764&hide_border=false" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-<!-- 11. GitHub Trophies Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sushan9900&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- 12. Contribution Activity Section -->
-## 📈 Contribution Activity Graph
+## 📊 Contribution & Activity Graph
 
 <div align="center">
 
@@ -219,18 +196,7 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 ---
 
-<!-- 13. Contribution Snake Section -->
-## 🐍 Contribution Eating Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
-</div>
-
----
-
-<!-- 14. Current Focus Section -->
+<!-- 11. Current Focus Section -->
 ## ⚡ Current Focus & Engineering Roadmap
 
 ```yaml
@@ -252,7 +218,7 @@ Current Focus:
 
 ---
 
-<!-- 15. Connect Section -->
+<!-- 12. Connect Section -->
 ## 🤝 Connect & Network
 
 <div align="center">
@@ -264,7 +230,7 @@ Current Focus:
 
 ---
 
-<!-- 16. Footer Section -->
+<!-- 13. Footer Section -->
 <div align="center">
 
 *"Simplicity is prerequisite for reliability, but elegance is the hallmark of true engineering excellence."*
