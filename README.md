@@ -1,30 +1,23 @@
 <div align="center">
 
 <!-- 1. Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:06b6d4&height=220&section=header&text=SUSHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SENIOR%20SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20SYSTEMS%20ARCHITECT&descAlignY=62&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:06b6d4&height=220&section=header&text=SUSHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20FULL%20STACK%20DEVELOPER&descAlignY=62&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Architecting+Distributed+Systems+%26+LLM+Infrastructure;Building+High-Throughput+Microservices+in+Go+%26+Rust;Pioneering+Enterprise-Grade+AI%2FML+Solutions;Optimizing+Low-Latency+Cloud-Native+Applications" alt="Typing Animation" />
-
-<br/>
-
-[![Degree](https://img.shields.io/badge/M.S._Computer_Science-Stanford_University-4C1D95?style=for-the-badge&logo=stanford&logoColor=white)](https://stanford.edu)
-[![Degree](https://img.shields.io/badge/B.S._Software_Engineering-UC_Berkeley-3B0764?style=for-the-badge&logo=berkeley&logoColor=white)](https://berkeley.edu)
-[![Specialization](https://img.shields.io/badge/Focus-AI_%26_Distributed_Systems-6366F1?style=for-the-badge&logo=probot&logoColor=white)](#-about-me)
-
-[![Location](https://img.shields.io/badge/Location-San_Francisco%2C_CA_%7C_Remote-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+IoT+%26+AI+Platforms;Developing+FastAPI+%26+React+Web+Applications;Exploring+Machine+Learning+%26+Data+Analytics;Crafting+Full+Stack+%26+Cloud-Native+Solutions" alt="Typing Animation" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://sushan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushan9900)
+[![Focus](https://img.shields.io/badge/Specialization-Full_Stack_%26_AI_Engine-6366F1?style=for-the-badge&logo=python&logoColor=white)](#-about-me)
+[![Location](https://img.shields.io/badge/Location-India_%7C_Remote-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushan9900@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushan9900)
 
 <br/>
 
 [![Views](https://komarev.com/ghpvc/?username=sushan9900&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sushan9900)
-[![Followers](https://img.shields.io/github/followers/sushan9900?style=for-the-badge&color=6366f1&label=FOLLOWERS)](https://github.com/sushan9900?tab=followers)
-[![Stars](https://img.shields.io/github/stars/sushan9900?style=for-the-badge&color=a855f7&label=TOTAL+STARS)](https://github.com/sushan9900?tab=repositories)
 
 </div>
 
@@ -33,13 +26,13 @@
 <!-- 2. About Section -->
 ## 🌌 About Me
 
-Hi, I'm **Sushan**! Experienced **Senior Software Engineer & AI Systems Architect** with 8+ years of expertise in designing high-throughput distributed systems, enterprise LLM orchestration pipelines, and mission-critical cloud native infrastructure. Dedicated to engineering sub-millisecond latency solutions that scale gracefully across multi-region deployments.
+Hi, I'm **Sushan**! I am a passionate **Software Engineer & Full Stack Developer** specializing in building intelligent web applications, AI-driven backend services, and real-time IoT solutions. I enjoy taking complex ideas and turning them into scalable, efficient software systems.
 
-- ⚙️ **Software Engineering Excellence**: Specialist in Rust, Go, C++, and Python with deep knowledge of memory management, low-level concurrency, and clean domain-driven architecture.
-- 🧠 **AI/ML & GenAI Specialization**: Architect of production RAG systems, distributed fine-tuning pipelines (LoRA/QLoRA), vector search databases, and custom TensorRT inference acceleration.
-- 💻 **Full Stack Mastery**: End-to-end craftsmanship leveraging modern React/Next.js, WebGL real-time visualizers, gRPC APIs, micro-frontends, and reactive event buses.
-- 🎯 **Product Engineering Mindset**: Bridging complex algorithmic research with measurable business impact, sub-100ms SLAs, zero-downtime blue-green rollouts, and SOC2 compliance.
-- 🤝 **Open To**: Principal/Staff Engineer roles, AI/ML Infrastructure Advisory, Keynote Speaking, and High-Impact Open Source Collaborations.
+- ⚙️ **Software Engineering**: Strong foundation in Python, JavaScript, C++, and database design with a focus on clean, maintainable code.
+- 🧠 **AI/ML & Data Science**: Hands-on experience developing ML microservices with FastAPI, Scikit-Learn, Pandas, NumPy, and local LLMs via Ollama.
+- 💻 **Full Stack & Cloud**: Crafting dynamic frontends in React and Vite alongside backend services in Node.js, Express, Firebase, and Google Cloud Run.
+- 🔌 **IoT & Embedded Systems**: Building end-to-end telemetry pipelines connecting ESP8266 hardware sensors to cloud dashboards in real time.
+- 🤝 **Open To**: Software Engineering Roles, Full Stack Opportunities, AI/ML Projects, and Open Source Collaborations.
 
 ---
 
@@ -48,45 +41,40 @@ Hi, I'm **Sushan**! Experienced **Senior Software Engineer & AI Systems Architec
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend Engineering
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### ⚡ Backend, Databases & Messaging
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚡ Backend, Cloud & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud Run](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### 🧠 AI/ML & Developer Tools
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,rust,cpp,ts,react,nextjs,nodejs,fastapi,postgres,redis,kafka,aws,gcp,docker,k8s,terraform,githubactions&theme=dark&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,react,vite,tailwind,nodejs,express,fastapi,postgres,mysql,firebase,gcp,docker,git,vscode,anaconda,pycharm&theme=dark&perline=9" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -96,177 +84,102 @@ Hi, I'm **Sushan**! Experienced **Senior Software Engineer & AI Systems Architec
 
 | Domain | Proficiency | Key Frameworks & Technical Details |
 | :--- | :---: | :--- |
-| **LLMs & GenAI Architectures** | `Expert` | Fine-Tuning (LoRA / QLoRA), RAG Architectures, LangChain, LlamaIndex, vLLM, Agentic Workflows |
-| **Deep Learning & Training** | `Advanced` | PyTorch, DeepSpeed, Ray Train, Distributed Data Parallel (DDP), Custom CUDA Kernels |
-| **Vector DBs & Semantic Search** | `Expert` | Milvus, Qdrant, Pinecone, FAISS, Hybrid BM25/Dense Retrieval, HNSW Indexing |
-| **Model Inference & Optimization** | `Advanced` | ONNX Runtime, TensorRT, Model Quantization (INT8/FP16), Triton Inference Server |
-| **Computer Vision & Perception** | `Intermediate` | OpenCV, YOLOv8, Segment Anything Model (SAM), Feature Embeddings |
-| **MLOps & Pipeline Automation** | `Expert` | MLflow, Kubeflow, Weights & Biases, Feature Stores (Feast), Drift Monitoring |
+| **Machine Learning & Analytics** | `Advanced` | Scikit-Learn, Pandas, NumPy, Risk Analysis, Regression & Classification |
+| **AI Microservices & APIs** | `Advanced` | FastAPI, Uvicorn, REST Endpoints, Cloud Run Deployment |
+| **Local LLMs & GenAI Tools** | `Intermediate` | Ollama, Prompt Engineering, Streamlit Application Prototyping |
+| **Deep Learning Fundamentals** | `Intermediate` | Keras, Neural Networks, Image Embeddings |
+| **Telemetry & Data Pipelines** | `Advanced` | Real-time Sensor Ingestion, Firebase Sync, Chart.js Dashboards |
 
 ---
 
 <!-- 5. Featured Projects Section -->
-## 🚀 Featured Enterprise Projects
+## 🚀 Featured Projects
 
 <details>
-<summary><b>⚡ NovaGraph — Distributed Real-Time RAG & Vector Engine</b></summary>
+<summary><b>⚡ SmartSphere — Complete IoT & AI Environmental Monitoring Platform</b></summary>
 
 <br/>
 
-> **High-performance vector retrieval and real-time graph reasoning engine engineered for enterprise LLM applications.**
+> **End-to-end IoT platform featuring ESP8266 firmware, real-time sensor processing, FastAPI AI risk engine, and React dashboard.**
 
 | Metric / Property | Specification |
 | :--- | :--- |
-| **Stack** | `Rust` • `PyTorch` • `Qdrant` • `gRPC` • `Next.js` |
-| **Scale** | 100M+ Vectors • 50,000 Sustained QPS |
-| **Performance** | < 12ms P99 Vector Retrieval Latency |
-| **Security** | End-to-End AES-256 Encryption • mTLS • Granular RBAC |
-| **Impact** | Reduced vector retrieval cloud infrastructure expenditure by 42% |
-| **Repository** | [`github.com/sushan9900/novagraph`](https://github.com/sushan9900) |
+| **Stack** | `ESP8266 / C++` • `FastAPI` • `Scikit-Learn` • `React/Vite` • `Firebase` • `Cloud Run` |
+| **Sensors** | MQ-2 Gas, Capacitive Moisture, HC-SR04 Ultrasonic |
+| **Key Features** | Real-time risk scoring, flood probability estimation, automated alerts |
+| **Repository** | [`github.com/sushan9900/APEX_API_SMART_SPHERE`](https://github.com/vaibhavvm2005/APEX_API_SMART_SPHERE) |
 
-#### Technical Overview
-NovaGraph provides sub-millisecond similarity search across multi-billion embedding datasets using SIMD-accelerated HNSW indexers compiled in Rust. Integrated directly with PyTorch model execution servers, NovaGraph decouples embedding calculations from vector store persistence, guaranteeing high throughput under peak enterprise loads.
+#### Project Highlights
+SmartSphere captures live telemetry from hardware nodes via MQTT/HTTP, processes environmental readings through a Python AI engine using Scikit-Learn, and updates a live React dashboard backed by Firebase Realtime Database.
 
 </details>
 
 <details>
-<summary><b>🛡️ AegisGuard — Zero-Trust AI Safety & Observability Gateway</b></summary>
+<summary><b>📊 Carbon Analytics & Backend Microservice App</b></summary>
 
 <br/>
 
-> **Enterprise proxy middleware for real-time auditing, sanitizing, and rate-limiting LLM prompt payloads to mitigate security threats.**
+> **Full stack web application built with Node.js, Express, and MySQL for tracking metrics and analytics.**
 
 | Metric / Property | Specification |
 | :--- | :--- |
-| **Stack** | `Go` • `FastAPI` • `Redis` • `OpenTelemetry` • `Docker` |
-| **Scale** | 500M+ Daily Payload Injections & Requests |
-| **Performance** | Sub-3ms Overhead Latency |
-| **Security** | Real-time PII Redaction • OWASP Top 10 for LLM Defense |
-| **Impact** | Prevented 99.8% of prompt injection and data-exfiltration attempts |
-| **Repository** | [`github.com/sushan9900/aegisguard`](https://github.com/sushan9900) |
+| **Stack** | `Node.js` • `Express` • `MySQL` • `React` |
+| **Key Features** | REST API endpoints, relational schema design, modular middleware |
+| **Repository** | [`github.com/sushan9900/carbon-app`](https://github.com/sushan9900) |
 
-#### Technical Overview
-Built as a zero-trust proxy in Go, AegisGuard intercepts incoming LLM requests and outgoing model completions. Utilizing concurrent regex pattern matchers combined with semantic vector classifiers, it detects adversarial jailbreaks, redacts confidential telemetry, and enforces token consumption quotas with sub-millisecond overhead.
-
-</details>
-
-<details>
-<summary><b>📊 HyperPulse — High-Frequency Event Streaming & Analytics Platform</b></summary>
-
-<br/>
-
-> **Cloud-native event streaming ingestion pipeline processing millions of telemetry data points with real-time visualization dashboards.**
-
-| Metric / Property | Specification |
-| :--- | :--- |
-| **Stack** | `Apache Kafka` • `ClickHouse` • `Java/Spring` • `React` • `Kubernetes` |
-| **Scale** | 2.5 Billion Events / Day |
-| **Performance** | 150,000 Sustained Operations / Second |
-| **Security** | SOC2 Type II Compliant • AWS IAM Federation |
-| **Impact** | Accelerated executive telemetry reporting from 4 hours down to < 2 seconds |
-| **Repository** | [`github.com/sushan9900/hyperpulse`](https://github.com/sushan9900) |
-
-#### Technical Overview
-HyperPulse leverages partition-balanced Kafka message brokers paired with ClickHouse columnar storage engines to ingest high-dimensional time-series data. Features micro-frontend visualization components built in React and WebGL, allowing real-time drill-down capabilities over multi-terabyte datasets without UI lag.
-
-</details>
-
-<details>
-<summary><b>🤖 SynapseNet — Multi-Agent Collaborative Task Execution Framework</b></summary>
-
-<br/>
-
-> **Autonomous multi-agent orchestration framework leveraging DAG-based execution and real-time feedback loops for software lifecycle automation.**
-
-| Metric / Property | Specification |
-| :--- | :--- |
-| **Stack** | `Python` • `LangChain` • `FastAPI` • `PostgreSQL` • `TailwindCSS` |
-| **Scale** | 10,000+ Autonomous Multi-Step Workflows / Day |
-| **Performance** | 98.4% Task Completion Success Rate |
-| **Security** | Sandboxed Docker Execution Environments |
-| **Impact** | Automated 65% of repetitive code review & unit-test generation pipelines |
-| **Repository** | [`github.com/sushan9900/synapsenet`](https://github.com/sushan9900) |
-
-#### Technical Overview
-SynapseNet models multi-agent workflows as dynamic directed acyclic graphs (DAGs). Dedicated specialized agents (Researcher, Coder, Auditor, QA) communicate over an asynchronous event bus to iteratively generate, test, and refactor codebases within isolated containerized sandboxes.
+#### Project Highlights
+Engineered modular Node.js API handlers for structured data persistence and dynamic metric visualization.
 
 </details>
 
 ---
 
 <!-- 6. Experience Section -->
-## 💼 Professional Engineering Experience
+## 💼 Engineering Experience & Projects
 
-### Staff AI & Distributed Systems Engineer | Apex AI Labs
-*Jan 2023 – Present | San Francisco, CA*
-- Engineered core distributed vector retrieval architecture powering enterprise LLM features for over 10 Million active monthly users.
-- Designed zero-downtime microservices framework in Go, Rust, and gRPC delivering 50,000 sustained QPS with a 99.999% availability SLA.
-- Reduced overall cloud infrastructure compute costs by $1.2M annually through Triton Inference Server model quantization and FP16 optimizations.
-- `Rust` `Go` `PyTorch` `Kubernetes` `AWS` `gRPC` `Vector DBs` `System Design`
-
-### Senior Full Stack & Systems Engineer | Vertex Cloud Systems
-*Jun 2020 – Dec 2022 | San Jose, CA*
-- Spearheaded the architectural design of a real-time telemetry analytics platform supporting 2.5 Billion events per day.
-- Authored reactive React/Next.js dashboard interfaces with custom WebGL charts for ultra-fast metric visualization under heavy load.
-- Led a cross-functional team of 8 engineers across backend, frontend, and MLOps disciplines, establishing TDD and CI/CD benchmarks.
-- `TypeScript` `React` `Node.js` `Apache Kafka` `PostgreSQL` `Docker` `Terraform`
-
-### Software Engineer | Quantum Scale Solutions
-*Jul 2017 – May 2020 | Austin, TX*
-- Built high-throughput RESTful and GraphQL microservices in Python (FastAPI) and C++ for real-time financial risk modeling.
-- Optimized database execution plans and implemented multi-tier Redis caching strategies, improving overall API throughput by 300%.
-- Integrated automated security auditing, static code analysis, and blue-green deployment pipelines within GitHub Actions workflows.
-- `Python` `C++` `FastAPI` `GraphQL` `Redis` `PostgreSQL` `CI/CD`
+### Software & AI Developer | Independent Projects
+*2023 – Present*
+- Built end-to-end IoT and AI platforms integrating hardware microcontrollers with cloud container services.
+- Architected RESTful microservices in Python (FastAPI) and Node.js with database schemas in PostgreSQL, MySQL, and Firebase.
+- Developed dynamic single-page web applications using React, Vite, and modern CSS frameworks.
+- Skills: `Python` `FastAPI` `React` `Node.js` `Firebase` `Scikit-Learn` `C++` `IoT`
 
 ---
 
 <!-- 7. Achievements Section -->
-## 🏆 Key Achievements & Honors
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-| Recognition | Details |
+| Milestone | Details |
 | :--- | :--- |
-| **🥇 1st Place — Global AI Innovation Hackathon** | Developed real-time accessibility translation engine using custom Whisper & LLM pipeline (2,500+ global participants) |
-| **🌟 Top 1% Open Source Contributor** | Recognized maintainer & core contributor across PyTorch, Qdrant, and CNCF ecosystem projects |
-| **📜 Published Research Author** | Co-authored peer-reviewed paper: *Optimizing Vector Indexes for High-Dimensional Latent Spaces* (IEEE 2024) |
-| **⚡ AWS Certified Solutions Architect Professional** | Achieved top 1st percentile score in enterprise cloud architecture & migration strategies |
-| **🏅 LeetCode Guardian Rating** | Ranked in the Top 0.5% globally with a peak competitive rating of 2380+ |
+| **🚀 SmartSphere IoT Platform Deployment** | Successfully integrated ESP8266 firmware, Cloud Run FastAPI AI backend, and Firebase dashboard |
+| **⚡ Multi-Stack Mastery** | Hands-on proficiency across Python AI tools, Node.js backend services, and modern React frontends |
+| **🌟 Open Source & Collaboration** | Active contributor and developer exploring AI, IoT, and cloud technologies |
 
 </div>
 
 ---
 
 <!-- 8. Certifications Section -->
-## 📜 Professional Certifications
+## 📜 Certifications & Training
 
-#### Amazon Web Services (AWS)
-[![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS-Certified_Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+#### Python & Machine Learning
+[![Python](https://img.shields.io/badge/Python-Data_Science_%26_Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
-#### Oracle
-[![Oracle Java Professional](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
-[![Oracle Database Specialist](https://img.shields.io/badge/Oracle-Autonomous_Database_Specialist-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
-
-#### NPTEL
-[![NPTEL Data Structures](https://img.shields.io/badge/NPTEL-Elite%2BGold_Data_Structures_%26_Algorithms-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white)](https://nptel.ac.in)
-[![NPTEL Deep Learning](https://img.shields.io/badge/NPTEL-Elite_Deep_Learning_Specialization-6366F1?style=for-the-badge&logo=google-scholar&logoColor=white)](https://nptel.ac.in)
-
-#### Cisco
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA_Routing_%26_Switching-1D63ED?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com)
-[![Cisco CyberOps](https://img.shields.io/badge/Cisco-Certified_CyberOps_Associate-1D63ED?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com)
+#### Web Development & Cloud
+[![Full Stack](https://img.shields.io/badge/Web_Development-Full_Stack_React_%26_Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 
 ---
 
 <!-- 9. Coding Profiles Section -->
-## 🧩 Competitive Programming & Coding Profiles
+## 🧩 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Guardian_Rating_2380+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sushan9900)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute_Rank_1-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sushan9900)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%E2%98%85_Problem_Solving-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sushan9900)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6%E2%98%85_Div_1_(2250+)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/sushan9900)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sushan9900)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/sushan9900)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/sushan9900)
 
 </div>
 
@@ -278,10 +191,6 @@ SynapseNet models multi-agent workflows as dynamic directed acyclic graphs (DAGs
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sushan9900&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=6366f1&text_color=cbd5e1&bg_color=0d1117&border_color=3b0764&hide_border=false" height="190" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushan9900&theme=tokyonight&background=0D1117&border=3B0764&stroke=7C3AED&ring=A855F7&fire=6366F1&currStreakNum=CBD5E1" height="190" alt="GitHub Streak" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushan9900&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=6366f1&text_color=cbd5e1&bg_color=0d1117&border_color=3b0764&hide_border=false" height="165" alt="Top Languages" />
 
 </div>
@@ -327,18 +236,18 @@ SynapseNet models multi-agent workflows as dynamic directed acyclic graphs (DAGs
 ```yaml
 Current Focus:
   Learning:
-    - Custom CUDA kernel development for LLM acceleration (Triton & FlashAttention-3)
-    - Quantum Computing algorithms & Qiskit simulation environments
+    - Advanced Machine Learning model deployment & optimization
+    - Deepening Cloud-Native DevOps & Docker orchestration
   Building:
-    - Ultra-low latency distributed RAG engine in Rust & Qdrant
-    - Open-source zero-trust LLM safety & observability gateway
+    - SmartSphere IoT AI risk prediction engine with FastAPI
+    - Modern Full Stack web applications with React & Node.js
   Exploring:
-    - Neuromorphic computing paradigms & spiking neural networks
-    - Serverless GPU orchestration on Kubernetes using KEDA
+    - Local LLM integrations with Ollama & LangChain
+    - Real-time telemetry visualization pipelines
   Open To:
-    - Staff / Principal Software Engineering Roles
-    - Enterprise AI/ML Systems Architecture Consulting
-    - Keynote Speaking on Distributed Systems & GenAI MLOps
+    - Software Engineering Roles
+    - Full Stack Developer Positions
+    - Collaborative AI & IoT Open Source Projects
 ```
 
 ---
@@ -349,9 +258,7 @@ Current Focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushan9900@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushan9900)
 [![GitHub](https://img.shields.io/badge/GitHub-@sushan9900-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushan9900)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sushan.dev-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://sushan.dev)
 
 </div>
 
