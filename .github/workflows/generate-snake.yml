@@ -1,0 +1,60 @@
+name: Generate Advanced Multi-Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js 20.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.x"
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Pathfinding Unit Tests
+        run: npm test
+
+      - name: Generate Multi-Snake SVGs
+        run: npm start
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SNAKE_USERNAME: ${{ github.repository_owner }}
+          SNAKE_COUNT: 3
+          SNAKE_THEME: cyberpunk
+
+      - name: Verify or Apply Fallbacks
+        run: |
+          if [ ! -f "github-contribution-snake-dark.svg" ]; then
+            echo "[WARN] Dark SVG missing, applying static fallback"
+            cp assets/fallback-snake-dark.svg github-contribution-snake-dark.svg
+          fi
+          if [ ! -f "github-contribution-snake-light.svg" ]; then
+            echo "[WARN] Light SVG missing, applying static fallback"
+            cp assets/fallback-snake-light.svg github-contribution-snake-light.svg
+          fi
+
+      - name: Deploy SVGs to Output Branch
+        uses: crazy-max/gh-action-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

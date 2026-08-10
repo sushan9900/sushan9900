@@ -1,0 +1,26 @@
+{
+  "name": "multi-snake-contribution-generator",
+  "version": "1.0.0",
+  "description": "Advanced Multi-Snake GitHub Contribution SVG Generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npx ts-node src/index.ts",
+    "test": "npx ts-node src/pathfinding/pathfinding.test.ts"
+  },
+  "keywords": [
+    "github",
+    "snake",
+    "contribution-graph",
+    "svg",
+    "pathfinding"
+  ],
+  "author": "Sushan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

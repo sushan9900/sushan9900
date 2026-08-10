@@ -197,13 +197,15 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 ---
 
-<!-- 11. Contribution Snake Section -->
-## 🐍 Contribution Eating Snake
+<!-- 11. Multi-Snake Contribution Graph -->
+## 🐍 Multi-Snake Contribution Graph
 
 <div align="center">
-
-<img src="./github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-snake-light.svg">
+    <img alt="Multi-Snake Contribution Graph" src="./github-contribution-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
