@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="850" height="140">
+  <style>
+    .bg { fill: #0d1117; rx: 8px; }
+    .dot-empty { fill: #161b22; rx: 2px; }
+    .dot-l1 { fill: #0e4429; rx: 2px; }
+    .dot-l2 { fill: #006d32; rx: 2px; }
+    .dot-l3 { fill: #26a641; rx: 2px; }
+    .dot-l4 { fill: #39d353; rx: 2px; }
+    .snake-head { fill: #a855f7; rx: 3px; filter: drop-shadow(0 0 6px #a855f7); }
+    .snake-body { fill: #6366f1; rx: 2px; }
+    @keyframes moveSnake {
+      0% { transform: translate(0px, 0px); }
+      15% { transform: translate(120px, 0px); }
+      30% { transform: translate(120px, 36px); }
+      45% { transform: translate(300px, 36px); }
+      60% { transform: translate(300px, 72px); }
+      75% { transform: translate(500px, 72px); }
+      90% { transform: translate(500px, 12px); }
+      100% { transform: translate(720px, 12px); }
+    }
+    .animated-snake { animation: moveSnake 12s linear infinite alternate; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="850" height="140" />
+
+  <!-- Contribution Grid (52 Weeks x 7 Days Grid Pattern) -->
+  <g transform="translate(15, 12)">
+    <!-- Simulated Activity Grid Dots -->
+    <script type="text/ecmascript">
+      // Decorative Grid Representation
+    </script>
+
+    <!-- Grid Columns -->
+    <g fill="#161b22">
+      <!-- Week 1 to 52 matrix sample -->
+      <rect x="0" y="0" width="10" height="10" class="dot-l1" />
+      <rect x="0" y="13" width="10" height="10" class="dot-empty" />
+      <rect x="0" y="26" width="10" height="10" class="dot-l2" />
+      <rect x="0" y="39" width="10" height="10" class="dot-empty" />
+      <rect x="0" y="52" width="10" height="10" class="dot-l3" />
+      <rect x="0" y="65" width="10" height="10" class="dot-empty" />
+      <rect x="0" y="78" width="10" height="10" class="dot-l1" />
+
+      <rect x="13" y="0" width="10" height="10" class="dot-empty" />
+      <rect x="13" y="13" width="10" height="10" class="dot-l4" />
+      <rect x="13" y="26" width="10" height="10" class="dot-l1" />
+      <rect x="13" y="39" width="10" height="10" class="dot-l2" />
+      <rect x="13" y="52" width="10" height="10" class="dot-empty" />
+      <rect x="13" y="65" width="10" height="10" class="dot-l3" />
+      <rect x="13" y="78" width="10" height="10" class="dot-empty" />
+
+      <rect x="26" y="0" width="10" height="10" class="dot-l2" />
+      <rect x="26" y="13" width="10" height="10" class="dot-empty" />
+      <rect x="26" y="26" width="10" height="10" class="dot-l3" />
+      <rect x="26" y="39" width="10" height="10" class="dot-l4" />
+      <rect x="26" y="52" width="10" height="10" class="dot-l1" />
+      <rect x="26" y="65" width="10" height="10" class="dot-empty" />
+      <rect x="26" y="78" width="10" height="10" class="dot-l2" />
+
+      <!-- Repeat Grid Patterns across 50 columns -->
+      <g transform="translate(39, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-l3" /><rect x="0" y="13" width="10" height="10" class="dot-l1" /><rect x="0" y="26" width="10" height="10" class="dot-empty" /><rect x="0" y="39" width="10" height="10" class="dot-l2" /><rect x="0" y="52" width="10" height="10" class="dot-l4" /><rect x="0" y="65" width="10" height="10" class="dot-empty" /><rect x="0" y="78" width="10" height="10" class="dot-l1" />
+        <rect x="13" y="0" width="10" height="10" class="dot-empty" /><rect x="13" y="13" width="10" height="10" class="dot-l2" /><rect x="13" y="26" width="10" height="10" class="dot-l4" /><rect x="13" y="39" width="10" height="10" class="dot-empty" /><rect x="13" y="52" width="10" height="10" class="dot-l3" /><rect x="13" y="65" width="10" height="10" class="dot-l1" /><rect x="13" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l1" /><rect x="26" y="13" width="10" height="10" class="dot-empty" /><rect x="26" y="26" width="10" height="10" class="dot-l2" /><rect x="26" y="39" width="10" height="10" class="dot-l3" /><rect x="26" y="52" width="10" height="10" class="dot-empty" /><rect x="26" y="65" width="10" height="10" class="dot-l4" /><rect x="26" y="78" width="10" height="10" class="dot-l2" />
+      </g>
+
+      <g transform="translate(78, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-empty" /><rect x="0" y="13" width="10" height="10" class="dot-l3" /><rect x="0" y="26" width="10" height="10" class="dot-l1" /><rect x="0" y="39" width="10" height="10" class="dot-l4" /><rect x="0" y="52" width="10" height="10" class="dot-empty" /><rect x="0" y="65" width="10" height="10" class="dot-l2" /><rect x="0" y="78" width="10" height="10" class="dot-l1" />
+        <rect x="13" y="0" width="10" height="10" class="dot-l2" /><rect x="13" y="13" width="10" height="10" class="dot-empty" /><rect x="13" y="26" width="10" height="10" class="dot-l3" /><rect x="13" y="39" width="10" height="10" class="dot-empty" /><rect x="13" y="52" width="10" height="10" class="dot-l1" /><rect x="13" y="65" width="10" height="10" class="dot-l4" /><rect x="13" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l4" /><rect x="26" y="13" width="10" height="10" class="dot-l1" /><rect x="26" y="26" width="10" height="10" class="dot-empty" /><rect x="26" y="39" width="10" height="10" class="dot-l2" /><rect x="26" y="52" width="10" height="10" class="dot-l3" /><rect x="26" y="65" width="10" height="10" class="dot-empty" /><rect x="26" y="78" width="10" height="10" class="dot-l1" />
+      </g>
+
+      <g transform="translate(117, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-l1" /><rect x="0" y="13" width="10" height="10" class="dot-l2" /><rect x="0" y="26" width="10" height="10" class="dot-l4" /><rect x="0" y="39" width="10" height="10" class="dot-empty" /><rect x="0" y="52" width="10" height="10" class="dot-l3" /><rect x="0" y="65" width="10" height="10" class="dot-l1" /><rect x="0" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="13" y="0" width="10" height="10" class="dot-empty" /><rect x="13" y="13" width="10" height="10" class="dot-l3" /><rect x="13" y="26" width="10" height="10" class="dot-empty" /><rect x="13" y="39" width="10" height="10" class="dot-l1" /><rect x="13" y="52" width="10" height="10" class="dot-l2" /><rect x="13" y="65" width="10" height="10" class="dot-empty" /><rect x="13" y="78" width="10" height="10" class="dot-l4" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l2" /><rect x="26" y="13" width="10" height="10" class="dot-empty" /><rect x="26" y="26" width="10" height="10" class="dot-l1" /><rect x="26" y="39" width="10" height="10" class="dot-l3" /><rect x="26" y="52" width="10" height="10" class="dot-l4" /><rect x="26" y="65" width="10" height="10" class="dot-empty" /><rect x="26" y="78" width="10" height="10" class="dot-l1" />
+      </g>
+
+      <!-- Fill remaining width with repeating grid blocks -->
+      <g transform="translate(156, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-l3" /><rect x="0" y="13" width="10" height="10" class="dot-l1" /><rect x="0" y="26" width="10" height="10" class="dot-l2" /><rect x="0" y="39" width="10" height="10" class="dot-empty" /><rect x="0" y="52" width="10" height="10" class="dot-l4" /><rect x="0" y="65" width="10" height="10" class="dot-empty" /><rect x="0" y="78" width="10" height="10" class="dot-l1" />
+        <rect x="13" y="0" width="10" height="10" class="dot-empty" /><rect x="13" y="13" width="10" height="10" class="dot-l4" /><rect x="13" y="26" width="10" height="10" class="dot-empty" /><rect x="13" y="39" width="10" height="10" class="dot-l3" /><rect x="13" y="52" width="10" height="10" class="dot-l1" /><rect x="13" y="65" width="10" height="10" class="dot-l2" /><rect x="13" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l1" /><rect x="26" y="13" width="10" height="10" class="dot-empty" /><rect x="26" y="26" width="10" height="10" class="dot-l3" /><rect x="26" y="39" width="10" height="10" class="dot-l1" /><rect x="26" y="52" width="10" height="10" class="dot-empty" /><rect x="26" y="65" width="10" height="10" class="dot-l4" /><rect x="26" y="78" width="10" height="10" class="dot-l2" />
+      </g>
+
+      <g transform="translate(195, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-empty" /><rect x="0" y="13" width="10" height="10" class="dot-l2" /><rect x="0" y="26" width="10" height="10" class="dot-l4" /><rect x="0" y="39" width="10" height="10" class="dot-empty" /><rect x="0" y="52" width="10" height="10" class="dot-l1" /><rect x="0" y="65" width="10" height="10" class="dot-l3" /><rect x="0" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="13" y="0" width="10" height="10" class="dot-l1" /><rect x="13" y="13" width="10" height="10" class="dot-empty" /><rect x="13" y="26" width="10" height="10" class="dot-l2" /><rect x="13" y="39" width="10" height="10" class="dot-l3" /><rect x="13" y="52" width="10" height="10" class="dot-empty" /><rect x="13" y="65" width="10" height="10" class="dot-l4" /><rect x="13" y="78" width="10" height="10" class="dot-l1" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l3" /><rect x="26" y="13" width="10" height="10" class="dot-l1" /><rect x="26" y="26" width="10" height="10" class="dot-empty" /><rect x="26" y="39" width="10" height="10" class="dot-l2" /><rect x="26" y="52" width="10" height="10" class="dot-l4" /><rect x="26" y="65" width="10" height="10" class="dot-empty" /><rect x="26" y="78" width="10" height="10" class="dot-l2" />
+      </g>
+
+      <g transform="translate(234, 0)">
+        <rect x="0" y="0" width="10" height="10" class="dot-l2" /><rect x="0" y="13" width="10" height="10" class="dot-l4" /><rect x="0" y="26" width="10" height="10" class="dot-empty" /><rect x="0" y="39" width="10" height="10" class="dot-l1" /><rect x="0" y="52" width="10" height="10" class="dot-l3" /><rect x="0" y="65" width="10" height="10" class="dot-empty" /><rect x="0" y="78" width="10" height="10" class="dot-l1" />
+        <rect x="13" y="0" width="10" height="10" class="dot-empty" /><rect x="13" y="13" width="10" height="10" class="dot-l1" /><rect x="13" y="26" width="10" height="10" class="dot-l3" /><rect x="13" y="39" width="10" height="10" class="dot-empty" /><rect x="13" y="52" width="10" height="10" class="dot-l2" /><rect x="13" y="65" width="10" height="10" class="dot-l4" /><rect x="13" y="78" width="10" height="10" class="dot-empty" />
+        <rect x="26" y="0" width="10" height="10" class="dot-l4" /><rect x="26" y="13" width="10" height="10" class="dot-empty" /><rect x="26" y="26" width="10" height="10" class="dot-l1" /><rect x="26" y="39" width="10" height="10" class="dot-l2" /><rect x="26" y="52" width="10" height="10" class="dot-empty" /><rect x="26" y="65" width="10" height="10" class="dot-l3" /><rect x="26" y="78" width="10" height="10" class="dot-l1" />
+      </g>
+    </g>
+
+    <!-- Animated Snake -->
+    <g class="animated-snake">
+      <rect x="0" y="0" width="10" height="10" class="snake-head" />
+      <rect x="-13" y="0" width="10" height="10" class="snake-body" />
+      <rect x="-26" y="0" width="10" height="10" class="snake-body" />
+      <rect x="-39" y="0" width="10" height="10" class="snake-body" />
+    </g>
+  </g>
+</svg>

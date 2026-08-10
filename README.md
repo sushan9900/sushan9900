@@ -202,7 +202,7 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+<img src="./github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 
 </div>
 
