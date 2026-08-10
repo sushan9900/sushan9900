@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- 1. Animated Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:06b6d4&height=220&section=header&text=SUSHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20FULL%20STACK%20DEVELOPER&descAlignY=62&descAlign=50" width="100%" />
+<h1>⚡ SUSHAN ⚡</h1>
+<p><b>SOFTWARE ENGINEER • AI & FULL STACK DEVELOPER</b></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+IoT+%26+AI+Platforms;Developing+FastAPI+%26+React+Web+Applications;Exploring+Machine+Learning+%26+Data+Analytics;Crafting+Full+Stack+%26+Cloud-Native+Solutions" alt="Typing Animation" />
 
-<br/>
+<br/><br/>
 
 [![Focus](https://img.shields.io/badge/Specialization-Full_Stack_%26_AI_Engine-6366F1?style=for-the-badge&logo=python&logoColor=white)](#-about-me)
 [![Location](https://img.shields.io/badge/Location-India_%7C_Remote-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -185,8 +186,8 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 ---
 
-<!-- 10. GitHub Analytics Section -->
-## 📊 Contribution & Activity Graph
+<!-- 10. Contribution Activity Section -->
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
@@ -196,7 +197,18 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 ---
 
-<!-- 11. Current Focus Section -->
+<!-- 11. Contribution Snake Section -->
+## 🐍 Contribution Eating Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+<!-- 12. Current Focus Section -->
 ## ⚡ Current Focus & Engineering Roadmap
 
 ```yaml
@@ -218,7 +230,7 @@ Current Focus:
 
 ---
 
-<!-- 12. Connect Section -->
+<!-- 13. Connect Section -->
 ## 🤝 Connect & Network
 
 <div align="center">
@@ -230,13 +242,9 @@ Current Focus:
 
 ---
 
-<!-- 13. Footer Section -->
+<!-- 14. Footer Section -->
 <div align="center">
 
 *"Simplicity is prerequisite for reliability, but elegance is the hallmark of true engineering excellence."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:7c3aed&height=120&section=footer" width="100%" />
 
 </div>
