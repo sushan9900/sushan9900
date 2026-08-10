@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- Verification Spike Section -->
-<h3>🧪 SMIL Animation Verification Spike</h3>
-<img src="./smil-verification-spike.svg" alt="SMIL Verification Spike" width="100%" />
-
-<br/><br/>
-
 <!-- 1. Animated Header Section -->
 <h1>⚡ SUSHAN ⚡</h1>
 <p><b>SOFTWARE ENGINEER • AI & FULL STACK DEVELOPER</b></p>
