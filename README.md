@@ -202,9 +202,9 @@ Engineered modular Node.js API handlers for structured data persistence and dyna
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushan9900/sushan9900/output/snake-light.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sushan9900/sushan9900/output/snake-light.svg" />
 </picture>
 </div>
 
